@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { Element, Editor, Frame, useNode, useEditor } from "@craftjs/core";
 
-import {MyButton} from './components/MyButton';
+import MyButton from './components/MyButton';
 
 
 const Toolbar = () => {
